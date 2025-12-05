@@ -1,0 +1,7 @@
+1) Установка доп библ venv 
+- sudo apt update 
+- sudo apt install python3-venv
+
+2) Установка flet 
+- pip install flet[all] - windows/linux
+- pip install flet - MacOS
